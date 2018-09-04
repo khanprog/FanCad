@@ -1,2 +1,2 @@
 # FanCad
-A materialize css template for further development 
+A Materialize CSS template for further development 
